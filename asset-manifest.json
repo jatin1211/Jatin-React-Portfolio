@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jatin-react-portfolio/static/css/main.aa3d827e.css",
+    "main.js": "/jatin-react-portfolio/static/js/main.cd2d83be.js",
+    "static/media/IMG1.png": "/jatin-react-portfolio/static/media/IMG1.0297638f7dd1687b3fdb.png",
+    "static/media/IMG4.png": "/jatin-react-portfolio/static/media/IMG4.f5c8dfa487d7dcb5a593.png",
+    "static/media/IMG3.JPG": "/jatin-react-portfolio/static/media/IMG3.252bbb0f6ee5389a841a.JPG",
+    "static/media/IMG5.JPG": "/jatin-react-portfolio/static/media/IMG5.5aaf05744ad284e53221.JPG",
+    "static/media/resume.pdf": "/jatin-react-portfolio/static/media/resume.5ddfd11c5a4f27c8f472.pdf",
+    "static/media/IMG6.JPG": "/jatin-react-portfolio/static/media/IMG6.20d9235f29cfe27fd833.JPG",
+    "static/media/IMG2.JPG": "/jatin-react-portfolio/static/media/IMG2.c60de0398fecebfbf558.JPG",
+    "index.html": "/jatin-react-portfolio/index.html",
+    "main.aa3d827e.css.map": "/jatin-react-portfolio/static/css/main.aa3d827e.css.map",
+    "main.cd2d83be.js.map": "/jatin-react-portfolio/static/js/main.cd2d83be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3d827e.css",
+    "static/js/main.cd2d83be.js"
+  ]
+}
