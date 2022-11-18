@@ -2,7 +2,7 @@ import sB from "../../../assets/project_screenshots/IMG1.png";
 import bH from "../../../assets/project_screenshots/IMG2.JPG";
 //import rP from '../../../assets/project_screenshots/IMG3.JPG';
 import wD from "../../../assets/project_screenshots/IMG3.JPG";
-// import pS from '../../../assets/project_screenshots/IMG5.JPG';
+import pS from '../../../assets/project_screenshots/IMG6.JPG';
 import eT from "../../../assets/project_screenshots/IMG4.png";
 import Ts from "../../../assets/project_screenshots/IMG5.JPG";
 import Icons from "../../../assets/icons";
@@ -51,30 +51,20 @@ const works = [
     description:
       "Employee Tracker is a simple CLI for managing your MySQL Employee's database. Uses Node.js, MySQL/Sequelize, and the inquirer.js package",
   },
-  // {
-  //     name: 'Rent a Puppy',
-  //     repo: `https://github.com/jatin1211/Tech-blog`,
-  //     url: 'https://github.com/jatin1211/Tech-blog',
-  //     screenshot: rP,
-  //     tech: [
-  //         { name: 'Express-Hbs', variant: 'light', bg: '', icon: icon.handleIcon },
-  //         { name: 'TailwindsCSS', variant: 'secondary', icon: icon.twCssIcon },
-  //         { name: 'JavaScript', variant: 'dark', bg: '', icon: icon.jsIcon },
-  //         { name: 'Sequelize', variant: 'light', bg: '', icon: icon.sqlIze },
-  //     ],
-  //     description: "Rent A Puppy, connects those that love pets but are unable to have their own with pet owners that don't want their pets alone while at work or on vacation"
-  // },
-  // {
-  //     name: 'Proximo',
-  //     repo: `${githubRepo}proximo/`,
-  //     url: `https://github.com/jatin1211/Tech-blog`,
-  //     screenshot: pS,
-  //     tech: [
-  //         { name: 'TailwindsCSS', variant: 'secondary', icon: icon.twCssIcon },
-  //         { name: 'JavaScript', variant: 'dark', bg: '', icon: icon.jsIcon },
-  //     ],
-  //     description: "Proximo is a user-friendly chat app that allows for one to open the app, see all of the geographically close users of proximo, chat on a global chat and add friends. Great for use in offices, schools, and just about everywhere else."
-  // },
+  {
+    name: "Tech Blog",
+    repo: `${githubRepo}Tech-blog`,
+    url: `https://arcane-gorge-43584.herokuapp.com/`,
+    screenshot: pS,
+    tech: [
+      { name: "NodeJS", variant: "", bg: "lightGreen", icon: icon.nodeIcon },
+      { name: "MySQL", variant: "secondary", icon: icon.mysqlIcon },
+      { name: "Express-Hbs", variant: "light", bg: "", icon: icon.handleIcon },
+
+    ],
+    description:
+      "A professional Blog platform to read/create/edit/delete blogs and to comment on other creator's blogs!",
+  },
   {
     name: "Habitual Habits",
     repo: `https://github.com/jatin1211/Habitual-Habits`,
