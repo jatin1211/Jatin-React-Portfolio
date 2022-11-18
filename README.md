@@ -49,4 +49,4 @@ Please email me with questions!
 
 
 ## Deployed Site
-http://jatin1211.github.io/jatin-react-portfolio
+http://jatin1211.github.io/Jatin-React-Portfolio
