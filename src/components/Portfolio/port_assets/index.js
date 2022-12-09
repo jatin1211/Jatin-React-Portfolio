@@ -5,6 +5,7 @@ import wD from "../../../assets/project_screenshots/IMG3.JPG";
 import pS from '../../../assets/project_screenshots/IMG6.JPG';
 import eT from "../../../assets/project_screenshots/IMG4.png";
 import Ts from "../../../assets/project_screenshots/IMG5.JPG";
+import sT from "../../../assets/project_screenshots/Starship.JPG";
 import Icons from "../../../assets/icons";
 const githubUrl = "https://jatin1211.github.io/";
 const githubRepo = "https://github.com/jatin1211/";
@@ -82,18 +83,17 @@ const works = [
   },
 
   {
-    name: "Weather Dashboard",
-    repo: `${githubRepo}Weather-dashboard`,
-    url: `https://github.com/jatin1211/Weather-Dashboard`,
-    screenshot: Ts,
+    name: "Starship",
+    repo: `https://github.com/FOR-TIMI/Starship`,
+    url: `https://still-cliffs-68409.herokuapp.com/dashboard/app`,
+    screenshot: sT,
     tech: [
-      { name: "Bootstrap", variant: "", bg: "purple", icon: icon.bootStrap },
       { name: "JavaScript", variant: "dark", bg: "", icon: icon.jsIcon },
       { name: "HTML", variant: "light", bg: "", icon: icon.htmlIcon },
       { name: "CSS", variant: "", bg: "rebeccaPurple", icon: icon.cssIcon },
     ],
     description:
-      "Dashboard is your source for ad-free weather and the day's top news headlines.",
+      "Starship is your home for stocks dashboard via connected socials",
   },
 ];
 export default works;
