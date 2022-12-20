@@ -13,6 +13,7 @@ export default function About() {
                     {/* CONTENT */}
                     <Col xs={{ span: 10, order: 3 }} className='mt-5'>
                         <p className="lead">Full Stack Web Developer with proven experience as a maintenance engineer. Skills in HTML, CSS, JavaScript, React.js, RWD, and agile development. Passionate about solving problems and providing meaningful web applications with a mobile-first approach that improve the lives of those around me.
+                         <br></br>Email: <a href = 'sainijatin247@gmail.com'>sainijatin247@gmail.com</a>
                         </p>
                     </Col>
                     {/* IMAGE/AVATAR */}
