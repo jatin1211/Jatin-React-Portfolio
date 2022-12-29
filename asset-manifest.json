@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Jatin-React-Portfolio/static/css/main.aa3d827e.css",
-    "main.js": "/Jatin-React-Portfolio/static/js/main.b4e57212.js",
+    "main.js": "/Jatin-React-Portfolio/static/js/main.9e9df2fb.js",
     "static/media/IMG1.png": "/Jatin-React-Portfolio/static/media/IMG1.0297638f7dd1687b3fdb.png",
     "static/media/IMG4.png": "/Jatin-React-Portfolio/static/media/IMG4.f5c8dfa487d7dcb5a593.png",
     "static/media/IMG3.JPG": "/Jatin-React-Portfolio/static/media/IMG3.252bbb0f6ee5389a841a.JPG",
     "static/media/IMG5.JPG": "/Jatin-React-Portfolio/static/media/IMG5.5aaf05744ad284e53221.JPG",
+    "static/media/resume.pdf": "/Jatin-React-Portfolio/static/media/resume.8b950aafb13f143224f0.pdf",
     "static/media/Starship.JPG": "/Jatin-React-Portfolio/static/media/Starship.1aa6f728f570798c9b42.JPG",
-    "static/media/resume.pdf": "/Jatin-React-Portfolio/static/media/resume.5ddfd11c5a4f27c8f472.pdf",
     "static/media/IMG6.JPG": "/Jatin-React-Portfolio/static/media/IMG6.20d9235f29cfe27fd833.JPG",
     "static/media/IMG2.JPG": "/Jatin-React-Portfolio/static/media/IMG2.c60de0398fecebfbf558.JPG",
     "index.html": "/Jatin-React-Portfolio/index.html",
     "main.aa3d827e.css.map": "/Jatin-React-Portfolio/static/css/main.aa3d827e.css.map",
-    "main.b4e57212.js.map": "/Jatin-React-Portfolio/static/js/main.b4e57212.js.map"
+    "main.9e9df2fb.js.map": "/Jatin-React-Portfolio/static/js/main.9e9df2fb.js.map"
   },
   "entrypoints": [
     "static/css/main.aa3d827e.css",
-    "static/js/main.b4e57212.js"
+    "static/js/main.9e9df2fb.js"
   ]
 }
